@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marpi", "Marpi\Marpi.csproj", "{58FDECC0-2308-4EDC-9690-401C3F487370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "online.database", "online.database\online.database.csproj", "{328167A1-8437-49A3-AB95-64045159CA20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FDECC0-2308-4EDC-9690-401C3F487370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FDECC0-2308-4EDC-9690-401C3F487370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FDECC0-2308-4EDC-9690-401C3F487370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FDECC0-2308-4EDC-9690-401C3F487370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328167A1-8437-49A3-AB95-64045159CA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328167A1-8437-49A3-AB95-64045159CA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328167A1-8437-49A3-AB95-64045159CA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328167A1-8437-49A3-AB95-64045159CA20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C400092B-EAFC-4249-AB1B-0AFA2F7B5809}
+	EndGlobalSection
+EndGlobal
